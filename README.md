@@ -1,4 +1,4 @@
-elm代挂机器人
+elm代挂机器人(微信扫码）
 
 ![image](https://github.com/user-attachments/assets/8a95e1e6-65cf-46a1-b368-e4c51ad0ec71)
 
