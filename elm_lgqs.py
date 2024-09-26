@@ -1,9 +1,12 @@
 # -*- coding: utf-8 -*-
-# -*- coding:utf-8 -*-
-"""
-cron: 35 */4 * * *
-new Env('饿了么光轮蓝骑士');
-"""
+#
+# 变量：elmck: 必填，账号cookie
+# cron: 30 */4 * * *
+#
+
+# const $ = new Env('蓝骑士');
+
+
 import hashlib
 import os
 import re
@@ -167,7 +170,7 @@ class TYT:
 
         try:
             r = requests.post(
-                "http://192.168.1.124:1888/api/getXSign",
+                "http://192.168.1.177:32772/api/getXSign",
                 json=body
             )
             r.raise_for_status()
