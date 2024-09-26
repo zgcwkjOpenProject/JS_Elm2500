@@ -1,8 +1,3 @@
-# -*- coding:utf-8 -*-
-"""
-cron: 50 */4 * * *
-new Env('饿了么贪吃蛇');
-"""
 import os
 import re
 import time
@@ -181,7 +176,7 @@ class TCS:
 
         try:
             r = requests.post(
-                "http://127.0.0.1:18848/api/getXSign",
+                "http://192.168.1.177:32772/api/getXSign",
                 json=body
             )
             r.raise_for_status()
