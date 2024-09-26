@@ -1,10 +1,5 @@
-# -*- coding:utf-8 -*-
-"""
-cron: 10 */4 * * *
-new Env('饿了么卡皮巴拉小餐车');
-环境变量 elmck
-​需要接口
-"""
+# 饿了么卡皮巴拉 需要接口才能运行
+
 import json
 import logging
 import os
@@ -69,8 +64,8 @@ def xsign(api, data, uid, sid, wua, v):
 
     try:
         r = requests.post(
-            "http://192.168.1.124:1888/api/getXSign",
-            # "http://127.0.0.1:18848/api/getXSign",
+            "http://192.168.1.177:32772/api/getXSign",
+            # "http://192.168.1.177:32772/api/getXSign",
             json=body
         )
         r.raise_for_status()
