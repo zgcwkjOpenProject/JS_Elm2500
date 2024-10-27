@@ -1,7 +1,10 @@
 
-elm代挂机器人(微信扫码）,上车口令：饿了么，资产查询口令：乐园币
+elm代挂机器人(微信扫码）\
+上车口令：饿了么 \
+资产查询口令：乐园币 \
+抢5、12、20无门槛上车口令：抢券
 
-<img src="https://github.com/user-attachments/assets/926a2d6e-028e-4342-be27-ed009db0b25e" width="200px">
+<img src="https://github.com/user-attachments/assets/2e3f9c32-5f50-46a8-a2d6-139b46a6b77b" width="200px">
 
 ![微信图片_20240926222101](https://github.com/user-attachments/assets/9363cbb1-ae27-405a-9887-125d3ce366f6)
 ![微信图片_20240926222122](https://github.com/user-attachments/assets/d322e17c-9eb5-45b2-a594-7e47b87c2818)
