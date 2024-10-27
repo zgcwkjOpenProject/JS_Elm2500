@@ -1,7 +1,10 @@
 
-elm代挂机器人(微信扫码）\
+elm代挂机器人(微信扫码）,绑定上车微信推送账号失效信息，不喜者绕道 \
+\
 上车口令：饿了么 \
+\
 资产查询口令：乐园币 \
+\
 抢5、12、20无门槛上车口令：抢券
 
 <img src="https://github.com/user-attachments/assets/2e3f9c32-5f50-46a8-a2d6-139b46a6b77b" width="200px">
