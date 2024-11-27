@@ -3,6 +3,9 @@
  * cron: 7 0,6,12,18,22 * * *
  * 连连看，欢乐倒水
  */
+const {
+    Env
+} = require("./common.js");
 const $ = new Env('饿了么乐园币');
 const {
     "getToken": getToken,
